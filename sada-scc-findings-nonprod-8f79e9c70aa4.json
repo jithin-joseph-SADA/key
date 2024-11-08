@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sada-scc-findings-nonprod",
+  "private_key_id": "8f79e9c70aa4811d5bac925fa38765312d126249",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nNYYEvAIBADANBgkokkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDfoOlxkMNq39cx\nEFZlQprLoEURXGSuSjmd6tce1hiMf3+PbR71Ki/kT/Gve4U9rnR74diFsqt3L5Of\nqPJb/d4S+Sxf7LFfuI3fmqVMDWsk8fq5/BA1P2jMJFAcnbD3c80WfZRgLGLaQsaA\nlIUx83gpps7JvBO3Hy21/z0MUogMFbk/dmdleUJ+oT21+2Nn1zlvH184cCuc+VMR\n/0dHU+3M+RqtqLagzxGW44bjy0gV/+l72vc/WATgGXqZ7QnRKm6NAeutQQkYGS5S\nHh0/C/KWCO4Tr8Kn0+GOliwPLJWhXWzJS8vDKE/eA9Y47DbXfLnp5lPZ96pCjyRk\nJIW1+EylAgMBAAECggEAFm7qRtCRu4W9l5gU9/l+KnknFJPD1ybDsDoeXw3eeTxS\nYTfyyBNK/0ifF8R4sZ8DjmiHM6T1xcdfCWra99bNZUfbvLpeHMUYblrxbrdV4pHn\ns1U8PFXiacAmzTLAeEJZ9iyeKtD+ZaNsjaTYgRH0dvEwg1TmVr4TntM+SN3VSf41\nLcZhnLtwucaJc2COdJ6ox76BlMIRo3PET+dhM+iGbDZUtruRxeTGfrRZK+VDyKXe\nbPkWzNf0fM1OHZirNu30D7w9cbvi3w6f6chW9r9WrtNGu/JLzi205iCwKBlmgxCX\nhVyPYVAmw9jGlFWoENUNiiPqwCGKSPC1c5Aq4aYdDQKBgQD5VyPsFndfCeciKj6Q\nQHOgUg0nAJLGrJOoMmoid9IPDQxNwDssy+S1wSkmd/LRK5DjRgA8pjIuXf43ZY5o\nRUatWXsSW0JKayZ35ufozcYkpHim3ZqLntdMBdoPOrcnVora9oRsLC/6SROxJxbc\nLmODJRqvzqKmCw2ZPVARfBWUIwKBgQDlmfesUNk0fkUWDwppUqwPwkeNxURfkjM8\nvWfnt3C/+M/bxhnj2rWEFFXnsy2pyXCNkc8bnJWAwqZlWF72gG9aO14mfG0TRFZ5\n6s5Wbt9j6yCQwkoGvq75nVY5LEwNsRK4AvuF79kJe0GJjgPBE+4r6P3Ci3unboO4\nzc2zQAMklwKBgCo/8s1RbT7Ebc7jO6Cz2yPiY2oldbmGiqqoiEV46jY0rs4J8b0A\ne6u0pGVpU9LPwAhS1z1vp/clZCs84SmX+4bqL6mHny7/AxC0Jr3TCG0zFWKpEEPy\nUWcHYtDL0TcwOe0qcnvl7OdLNLQC/KOolKInSmNZ70OVgeNieUvNK9bjAoGAT30D\nevuuhvbkMiPY5efCO9516UYPSssRxAiKzXT7quqYA61Mz06rouNrbkDhITPlLI37\nVsLaG27ILrPuhIaohmOhT8+p746sJZ89+jx+SFhhuNwaxsUDTNXEwRxt5BuWsHAP\n5inISPkMEnRBJnog7cDHAbBKige/wJ43hcQ2klcCgYAB3rZ93WLhlOl2CyVBIhDn\nvwElPT6zaDYiw2zHesbrgSQCXfxjmf0Rid5lnutMv/KK9e7cDfIyNAJ/VF/IBqiv\npbjHK5k7ZVQhKa96JtgwI85Dm3GWQJ7T1SJv+ZHVLjce3wy7Wqnv5FGgG65Djbwb\neMlNmZ6lgLZulF8zz6Khjg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "scc-snow-integration@sada-scc-findings-nonprod.iam.gserviceaccount.com",
+  "client_id": "100621390386147390826",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scc-snow-integration%40sada-scc-findings-nonprod.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
